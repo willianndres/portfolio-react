@@ -1,0 +1,77 @@
+{
+    "en": {
+      "namePort": "Portfolio wa",
+      "nav": [
+        { "name": "Home", "link": "home" },
+        { "name": "About", "link": "about" },
+        { "name": "Contact", "link": "contact" }
+      ],
+      "titleMobile": "Mobile",
+      "titlePrincipal": "Hi, I'm Willian Candanoza.",
+      "subTitlePrincipal": "Software developer.",
+      "titleSecondSection": "About me",
+      "subTitle1SecondSection": "Short description",
+      "subTitle2SecondSection": "My skills",
+      "shortDescription": "Hello, I have been a software developer for a little over three years, I am a computer engineer, I love doing what I do and solving problems entertains me a lot. In this path I have been able to work and experience diverse functions such as Front-end and Back-end in depth. I love soccer, good coffee and beer.",
+      "titleModalFrontend": "Front-end skills",
+      "titleModalBackend": "Back-end skills",
+      "javascriptTitle": "Javascript technologies",
+      "cssTitle": "CSS technologies",
+      "phpTitle": "PHP technologies",
+      "databaseTitle": "DBMS",
+      "contactTitleSection": "Contact",
+      "titleAGithub": "Github profile",
+      "titleALinkedin": "Linkedin profile",
+      "titleAInstagram": "Instagram profile",
+      "titleATwitter": "Twitter profile",
+      "titleAGmail": "Send mail",
+      "titleAForm": "Contact form",
+      "titleSectionMobile": "Mobile",
+      "titleModalMobile": "Mobile skills",
+      "form": {
+        "name": "Name",
+        "lastname": "Lastname",
+        "email": "Email",
+        "phone": "Phone",
+        "button": "Save"
+      }
+    },
+    "es": {
+      "namePort": "Portafolio wa",
+      "nav": [
+        { "name": "Inicio", "link": "home" },
+        { "name": "Acerca de mi", "link": "about" },
+        { "name": "Contacto", "link": "contact" }
+      ],
+      "titleMobile": "Móvil",
+      "titlePrincipal": "Hola, soy Willian Candanoza.",
+      "subTitlePrincipal": "Desarrollador de software.",
+      "titleSecondSection": "Acerca de mi",
+      "subTitle1SecondSection": "Breve descripción",
+      "subTitle2SecondSection": "Mis habilidades",
+      "shortDescription": "Hola, soy desarrollador de software desde un poco mas de tres años, soy ingeniero de computacion,  me apaciona hacer lo que hago y me entretiene mucho resolver problemas. En esta trayectoria he podido trabajar y experimentar funciones diversas tal como Front-end y Back-end a fondo. Me encanta el futbol, el buen cafe y la cerveza.",
+      "titleModalFrontend": "Habilidades en front-end",
+      "titleModalBackend": "Habilidades en back-end",
+      "javascriptTitle": "Tecnologías de Javascript",
+      "cssTitle": "Tecnologías de CSS",
+      "phpTitle": "Tecnologías de PHP",
+      "databaseTitle": "SGBD",
+      "contactTitleSection": "Contacto",
+      "titleAGithub": "Perfil de Github",
+      "titleALinkedin": "Perfil de Linkedin",
+      "titleAInstagram": "Perfil de Instagram",
+      "titleATwitter": "Perfil de Twitter",
+      "titleAGmail": "Enviar un correo",
+      "titleAForm": "Formulario de contacto",
+      "titleSectionMobile": "Movil",
+      "titleModalMobile": "Habilidades en movil",
+      "form": {
+        "name": "Nombre",
+        "lastname": "Apellido",
+        "email": "Correo",
+        "phone": "Teléfono",
+        "button": "Guardar"
+      }
+    }
+  }
+  
