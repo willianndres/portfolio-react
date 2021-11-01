@@ -9,9 +9,7 @@ const Footer = () => {
                 color: 'white'
             }}
         >
-            © {new Date().getFullYear()}, Built with123
-            {` `}
-            <a href="https://www.gatsbyjs.com">Gatsby</a>
+            © {new Date().getFullYear()}
         </footer>
     )
 }
